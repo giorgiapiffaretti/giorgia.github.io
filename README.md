@@ -1,1 +1,3 @@
-# gp
++ ---
++ permalink: /index.html
++ ---
